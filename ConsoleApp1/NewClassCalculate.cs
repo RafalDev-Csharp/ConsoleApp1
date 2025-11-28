@@ -12,5 +12,7 @@ namespace ConsoleApp1
         public string Name { get; set; }
         public double CalculateArea(double radius) => Math.PI * radius * radius;
         public string City { get; set; }
+        public string Weatherty { get; set; }
+        public string ZipCode { get; set; }
     }
 }

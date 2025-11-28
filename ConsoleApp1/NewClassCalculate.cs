@@ -8,5 +8,6 @@ namespace ConsoleApp1
 {
     internal class NewClassCalculate
     {
+        public string City { get; set; }
     }
 }

@@ -11,7 +11,7 @@ namespace ConsoleApp1
 {
     internal class Program
     {
-        
+
         public static void Main()
         {
             int number = 3;
@@ -24,8 +24,11 @@ namespace ConsoleApp1
             };
 
             string str = "asdasd";
+        }
+
+        public void DissplayMsg()
+        {
+            Console.WriteLine("Hello, World!");
+        }
     }
-
-
-    
 }

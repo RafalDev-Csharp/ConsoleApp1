@@ -22,6 +22,8 @@ namespace ConsoleApp1
                 3 => "Three",
                 _ => "Unknown"
             };
+
+            string str = "asdasd";
     }
 
 

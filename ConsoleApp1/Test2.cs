@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class TestClass
+    internal class Test2
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public decimal Money { get; set; }
     }
 }

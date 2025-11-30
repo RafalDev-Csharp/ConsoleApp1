@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class TestClass
+    internal class NewFile1
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
     }
 }

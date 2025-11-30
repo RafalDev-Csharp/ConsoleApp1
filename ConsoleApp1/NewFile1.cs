@@ -8,5 +8,6 @@ namespace ConsoleApp1
 {
     internal class NewFile1
     {
+        public int MyProperty { get; set; }
     }
 }
